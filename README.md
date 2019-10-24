@@ -1,2 +1,2 @@
 # numpy
-Explore Numpy, starting from basics
+Explore Numpy, starting from basics.
